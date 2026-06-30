@@ -60,5 +60,5 @@ Claims about hours, tickets, or policies **must** cite an official source or say
 
 ## Phase 1 (西安 D2)
 
-- **Done**: 10 core attractions (E2 review)
-- **Next**: 20 more attractions, routes, tips, food, culture (~70 concepts)
+- **Done**: 30 attractions, 8 routes, 15 tips, 15 food, 10 culture (78 concepts)
+- **Next**: spot-check citations, enrich cross-links, seasonal overlays
